@@ -1,0 +1,31 @@
+.container{
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: aliceblue;
+
+}
+
+.componentitem{
+    /* border: 1px solid black; */
+    width: 30%;
+    margin-top:1%;
+    padding-bottom:4%;
+    text-align: center;
+    background-color: white;
+}
+img{
+    width: 100%;
+}
+button{
+    border-color: green;
+    padding:3%;
+    color:green;
+    margin-top: 2%;
+}
+p{
+    text-align:center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
